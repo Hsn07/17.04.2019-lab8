@@ -67,6 +67,7 @@ public class Tavsan {
     }
 }
 ###Main Classı
+
 public class Main {
    public static void main(String[] args){
     Kaplumbaga K=new Kaplumbaga();
